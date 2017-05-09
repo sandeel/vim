@@ -1,0 +1,1 @@
+/home/ubuntu/.space-vim/init.vim
